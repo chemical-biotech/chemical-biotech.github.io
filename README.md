@@ -33,12 +33,9 @@
 ## [PARPS Series](https://heyanbiotech.cn/detail/PARPS_Series.html)
 ## [KRAS Series](https://heyanbiotech.cn/detail/KRAS_Series.html)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](https://heyanbiotech.cn)![https://heyanbiotech.cn/temp/banner.jpg](src)
+!(https://heyanbiotech.cn/temp/banner.jpg](src)
 ### Support or Contact
 
 Having trouble with info? Check out our [websit](https://heyanbiotech.cn) or [contact support](https://heyanbiotech.cn/contact_Us.html) and we’ll help you.
