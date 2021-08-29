@@ -35,7 +35,7 @@
 
 
 
-!(https://heyanbiotech.cn/temp/banner.jpg]
+!(https://heyanbiotech.cn/temp/banner.jpg)[src]
 ### Support or Contact
 
 Having trouble with info? Check out our [websit](https://heyanbiotech.cn) or [contact support](https://heyanbiotech.cn/contact_Us.html) and we’ll help you.
