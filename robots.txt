@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://chemical-biotech.github.io/sitemap.xml
