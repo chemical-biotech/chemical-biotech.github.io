@@ -34,8 +34,7 @@
 ## [KRAS Series](https://heyanbiotech.cn/detail/KRAS_Series.html)
 
 
-
-!(https://heyanbiotech.cn/temp/banner.jpg)[src]
+![image](https://heyanbiotech.cn/temp/banner.jpg)
 ### Support or Contact
 
 Having trouble with info? Check out our [websit](https://heyanbiotech.cn) or [contact support](https://heyanbiotech.cn/contact_Us.html) and we’ll help you.
